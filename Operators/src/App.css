@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: cornflowerblue;
+  display: inline-block;
+  padding: 20px;
+}
+form label{
+  display: inline-block;
+  width: 150px;
+ 
+}
+form div{
+ 
+  margin: 20px;
+}
+.resultLbl{
+  width: 500px;
+}
+span{
+  width: 50px;
+  display: inline-block;
+  color: white;
+}
+button{
+  margin: 5px;
+  background-color:lightcoral;
+  color: blue;
+  border: 2px solid black;
+
+}
